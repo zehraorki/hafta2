@@ -1,0 +1,3 @@
+/Users/zehra/Desktop/Ders Materyalleri/DSA - LAB/Hafta2/soru6/cmake-build-debug/CMakeFiles/soru6.dir
+/Users/zehra/Desktop/Ders Materyalleri/DSA - LAB/Hafta2/soru6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zehra/Desktop/Ders Materyalleri/DSA - LAB/Hafta2/soru6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
